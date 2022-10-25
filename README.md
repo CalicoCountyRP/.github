@@ -1,6 +1,4 @@
-![cclogo]()
-
-# ***Calico County***
+# ***Calico County Offical Repository***
 ___
 
 
