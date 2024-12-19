@@ -1,4 +1,4 @@
-# ***Calico County Offical RP Repository***
+# ***Calico County RP Offical Repository***
 ___
 
 ### Staff Counsel
