@@ -2,14 +2,10 @@
 ___
 
 ### Staff Consoule
-*
-[Askesienne](https://github.com/askesienne)
-*
-[Mel]()
-*
-[Flamespinner](https://GitHub.com/Flamespinner)
-*
-[lantheos](https://GitHub.com/lantheos)
+*[Askesienne](https://github.com/askesienne)
+*[Mel]()
+*[Flamespinner](https://GitHub.com/Flamespinner)
+*[lantheos](https://GitHub.com/lantheos)
 
 
 ### Developers
