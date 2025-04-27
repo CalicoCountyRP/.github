@@ -1,5 +1,5 @@
-![CCRPLogo](https://github.com/CalicoCountyRP/.github/blob/master/logo.png | width=100)
-
+![CCRPLogo](https://github.com/CalicoCountyRP/.github/blob/master/logo.png)
+<img src="[https://github.com/CalicoCountyRP/.github/blob/master/logo.png]" width="100" height="100">
 # ***[Calico County RP](https://calicocountyrp.com/)***
 ___
 
